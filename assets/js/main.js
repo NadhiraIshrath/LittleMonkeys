@@ -1,5 +1,5 @@
 /**
- *BrandByte solutions
+ *Little Monkeys
  */
 
 (function () {
